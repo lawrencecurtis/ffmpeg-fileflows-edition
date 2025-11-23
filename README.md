@@ -1,3 +1,3 @@
 # ffmpeg-fileflows-edition
 
-The CUDA alphas has finished
+The CUDA alpha has finished
